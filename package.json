@@ -4,10 +4,10 @@
   "private": true,
   "description": "Multilingual marketing + blog + docs starter with Astro and Cloudflare Pages",
   "license": "MIT",
-  "packageManager": "pnpm@8.15.0",
+  "packageManager": "pnpm@8.0.0",
   "type": "module",
   "engines": {
-    "node": "24.0.0",
+    "node": "20.0.0",
     "pnpm": "8.15.0"
   },
   "scripts": {

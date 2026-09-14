@@ -95,23 +95,23 @@ export const siteConfig: SiteConfig = {
   name: "Qwervo",
   description:
     "Marketing, blog, and docs starter built with Astro and Cloudflare Pages — multilanguage-ready",
-  author: "Milzam",
-  email: "milzamsz@gmail.com",
+  author: "Marcelo Lezcano",
+  email: "marcelo.lezcano@qwervo.com",
   authorImage: "/images/author.jpg",
 
   /* Social links */
   socialLinks: [
     {
       platform: "github",
-      url: "https://github.com/milzamsz/astro-cloudflare-starter",
+      url: "https://github.com/qwervo-dev",
       label: "GitHub",
     },
     {
       platform: "linkedin",
-      url: "https://www.linkedin.com/in/milzamsz/",
+      url: "https://www.linkedin.com/in/marcelo-lezcano/",
       label: "LinkedIn",
     },
-    { platform: "email", url: "mailto:milzamsz@gmail.com", label: "Email" },
+    { platform: "email", url: "mailto:marcelo.lezcano@qwervo.com", label: "Email" },
   ],
 
   /* Header settings */

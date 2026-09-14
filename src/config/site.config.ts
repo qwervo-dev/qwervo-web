@@ -91,8 +91,8 @@ export interface SiteConfig {
 export const siteConfig: SiteConfig = {
   /* Core configuration — single source of truth for canonical/OG/sitemap/llms.txt.
    * Replace with your production domain when forking this template. */
-  url: "https://astro-cloudflare-starter.pages.dev",
-  name: "Astro Cloudflare",
+  url: "https://www.qwervo.com",
+  name: "Qwervo",
   description:
     "Marketing, blog, and docs starter built with Astro and Cloudflare Pages — multilanguage-ready",
   author: "Milzam",
@@ -167,8 +167,8 @@ export const siteConfig: SiteConfig = {
       ring: "#171717",
     },
     logo: {
-      light: "/logos/logo-light.svg",
-      dark: "/logos/logo-dark.svg",
+      light: "/qwervo-logo-simbolo-negro.svg",
+      dark: "/qwervo-logo-simbolo-blanco.svg",
     },
     favicon: "/favicon.svg",
   },
